@@ -7,7 +7,7 @@ There are 25 total sections. Section 1 and section 25 are useless!
 
 Table of Contents Overview:
 - About PWK Course
-- [Getting Comfy with Kali Linux](#-getting-comfy-with-kali-linux)
+- [Getting Comfy with Kali Linux](##-getting-comfy-with-kali-linux)
 - Command Line Fun
 - Practical Tools
 - Bash Scripting
