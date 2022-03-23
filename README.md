@@ -1,6 +1,9 @@
 `Note: These are my notes for personal reference!`
 
+<img src="https://user-images.githubusercontent.com/68887544/159728391-b9c52bda-b711-4c63-aa52-3886a7ab54c1.png" align="right" width=450px>
+
 # 𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬
+
 
 
 > - `21st March 2022` : Start Date
