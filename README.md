@@ -34,8 +34,8 @@
 - [Active Directory Attacks](#𝐀𝐜𝐭𝐢𝐯𝐞-𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
 - [The Metasploit Framework](#𝐓𝐡𝐞-𝐌𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭-𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤)
 - [Powershell Empire](#𝐏𝐨𝐰𝐞𝐫𝐬𝐡𝐞𝐥𝐥-𝐄𝐦𝐩𝐢𝐫𝐞)
-- [Assembling the pieces: penetration test breakdown](#𝐀𝐬𝐬𝐞𝐦𝐛𝐥𝐢𝐧𝐠-𝐭𝐡𝐞-𝐩𝐢𝐞𝐜𝐞𝐬:-𝐩𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧-𝐭𝐞𝐬𝐭-𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧)
-- [Trying Harder: The Labs](#𝐓𝐫𝐲𝐢𝐧𝐠-𝐇𝐚𝐫𝐝𝐞𝐫:-𝐓𝐡𝐞-𝐋𝐚𝐛𝐬)
+- [Assembling the pieces: penetration test breakdown](#𝐀𝐬𝐬𝐞𝐦𝐛𝐥𝐢𝐧𝐠-𝐭𝐡𝐞-𝐩𝐢𝐞𝐜𝐞𝐬-𝐩𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧-𝐭𝐞𝐬𝐭-𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧)
+- [Trying Harder: The Labs](#𝐓𝐫𝐲𝐢𝐧𝐠-𝐇𝐚𝐫𝐝𝐞𝐫-𝐓𝐡𝐞-𝐋𝐚𝐛𝐬)
 
 ## 𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
 
@@ -43,6 +43,14 @@
   - TCP/IP Fundamentals 
     - Part I : https://youtu.be/xdQ9sgpkrX8
     - Part II: https://youtu.be/NdvWI6RH1eo
+- Familiarity with basic Bash and/or Python scripting
+  - Python Books:
+    - Black Hat Python: https://g.co/kgs/xmdQNE
+    - Violent Python: https://g.co/kgs/vJfCsm
+  - Vidoes: 
+    - [The Complete Python Hacking Course: Beginner To Advance! (2021)](https://youtu.be/0NQ2aMxBYNE)
+    - [The Complete Python Hacking Course Playlist](https://youtube.com/playlist?list=PL9bcYdRTwTIme7BckMbAd55KdwEzeSe9m)
+
 
 ## 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐂𝐨𝐦𝐟𝐨𝐫𝐭𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐊𝐚𝐥𝐢 𝐋𝐢𝐧𝐮𝐱
 
