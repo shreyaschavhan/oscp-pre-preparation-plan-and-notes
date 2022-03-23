@@ -252,7 +252,6 @@ Linux Privilege Escalation — https://www.udemy.com/course/linux-privilege-esca
 Windows Privilege Escalation — https://www.udemy.com/course/windows-privilege-escalation/
 ```
 
----
 
 > - Netcat 
 >   - [Netcat tutorial by networkchuk](https://youtu.be/bXCeFPNWjsM)
@@ -264,10 +263,58 @@ Windows Privilege Escalation — https://www.udemy.com/course/windows-privilege-
 
 ## 𝐁𝐚𝐬𝐡 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠
 
+> - Practice:
+>   - [Bash Scripting Practice on Hackerrank](https://www.hackerrank.com/domains/shell?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=bash)
+>   - https://www.learnshell.org/
+> - Book:
+>   - [Shell Scripting: How to Automate Command Line Tasks Using...](https://g.co/kgs/LW4kQy)
+
+
 
 ## 𝐏𝐚𝐬𝐬𝐢𝐯𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠
 
+```
+- Website Recon
+- Whois Enumeration
+- Google hacking : https://www.exploit-db.com/google-hacking-database
+- Netcraft
+- Recon-ng : https://github.com/lanmaster53/recon-ng
+- Open source code
+- Shodan
+- Security Headers Scanner
+- SSL Server Test
+- Pastebin
+- User information Gathering
+- Email Harvesting
+- Stack Overflow
+- OSINT Framework
+- Maltego
+
+```
+
 ## 𝐀𝐜𝐭𝐢𝐯𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠
+
+```
+- DNS Enumeration
+  - Forward Lookup
+  - Reverse Lookup
+  - DNS Zone Transfers
+  - Tools:
+    - DNSrecon
+    - DNSenum
+- Port Scanning
+  - TCP Scanning
+  - UDP Scanning
+  - Nmap: 
+    - https://nmap.org/book/toc.html
+    - https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717
+    - https://blog.zsec.uk/nmap-rtfm/
+  - Masscan
+- SMB Enumeration
+- NFS Enumeration
+- SMTP Enumeration
+- SNMP Enumeration
+```
 
 ## 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐜𝐚𝐧𝐧𝐢𝐧𝐠
 ## 𝐖𝐞𝐛 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
