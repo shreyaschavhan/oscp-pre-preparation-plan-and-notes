@@ -60,14 +60,56 @@
 
 > - Installing Kali Linux on VMware: https://youtu.be/UbGYDDnFAEg
 > - Kali Linux on Windows in 5 mins: https://youtu.be/AfVH54edAHU
-> ---
 > - Linux for Hackers by NetworkChuck: https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
 > - Linux for beginners (Hindi) by Codewithharry: `https://youtu.be/_tCY-c-sPZc`
 > - Linux for Hackers (Kali Linux Tutorial): https://youtu.be/lZAoFs75_cs
-> ---
 > - Kali Linux Training: https://kali.training/
+> - Linux Commands cheatsheet: https://github.com/shreyaschavhan/linux-commands-cheatsheet
+
+
+- Should learn `(imp)`: 
+```
+- man
+- apropos
+- ls
+- cd
+- pwd
+- mkdir
+- rm
+- which
+- locate
+- find
+- ssh
+- grep
+- apt
+
+```
 
 ## 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐧𝐞 𝐅𝐮𝐧
+
+> - Linux Commands cheatsheet: https://github.com/shreyaschavhan/linux-commands-cheatsheet
+> - Book: https://g.co/kgs/7gC3DZ
+> - Practice:
+>   - Overthewire Bandit: https://overthewire.org/wargames/bandit/
+>   - Cmdchallenge: https://cmdchallenge.com/
+> - Vim Tutorial: https://youtu.be/IiwGbcd8S7I
+
+
+- Should learn:
+```
+- Environment Variables in Bash
+- grep
+- awk
+- cut
+- sed
+```
+
+- Text Editors you should be familiar with:
+```
+- nano
+- vi(m)
+```
+
 
 
 
