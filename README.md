@@ -1,13 +1,18 @@
-`Start Date: 21st March 2022`
-# ⁍ 𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬
+`Note: These are my notes for personal reference!`
 
-## 𝐒𝐲𝐥𝐥𝐚𝐛𝐮𝐬
+# 𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬
 
-There are 25 total sections. Section 1 and section 25 are useless!
 
-Table of Contents Overview:
-- About PWK Course
-- [Getting Comfy with Kali Linux](##-getting-comfy-with-kali-linux)
+> - `21st March 2022` : Start Date
+> - `19th Sept 2022` : Expected End Date
+> - `180 days` : Goal
+
+---
+
+## ⁍ 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬
+
+- Pre-requisites
+- Getting Comfortable with Kali Linux
 - Command Line Fun
 - Practical Tools
 - Bash Scripting
@@ -32,4 +37,11 @@ Table of Contents Overview:
 - Assembling the pieces: penetration test breakdown
 - Trying Harder: The Labs
 
-## Getting Comfy with Kali Linux 
+## 𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
+
+- Solid understanding of TCP/IP networking
+  - TCP/IP Fundamentals 
+    - Part I : https://youtu.be/xdQ9sgpkrX8
+    - Part II: https://youtu.be/NdvWI6RH1eo
+
+
