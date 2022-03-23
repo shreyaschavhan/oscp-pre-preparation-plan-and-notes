@@ -43,22 +43,33 @@
 
 ## 𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
 
-- Solid understanding of TCP/IP networking
-  - TCP/IP Fundamentals 
-    - Part I : https://youtu.be/xdQ9sgpkrX8
-    - Part II: https://youtu.be/NdvWI6RH1eo
-- Familiarity with basic Bash and/or Python scripting
-  - Python Books:
-    - Black Hat Python: https://g.co/kgs/xmdQNE
-    - Violent Python: https://g.co/kgs/vJfCsm
-  - Vidoes: 
-    - [The Complete Python Hacking Course: Beginner To Advance! (2021)](https://youtu.be/0NQ2aMxBYNE)
-    - [The Complete Python Hacking Course Playlist](https://youtube.com/playlist?list=PL9bcYdRTwTIme7BckMbAd55KdwEzeSe9m)
+> - Solid understanding of TCP/IP networking
+>   - TCP/IP Fundamentals 
+>     - Part I : https://youtu.be/xdQ9sgpkrX8
+>     - Part II: https://youtu.be/NdvWI6RH1eo
+> - Familiarity with basic Bash and/or Python scripting
+>   - Python Books:
+>     - Black Hat Python: https://g.co/kgs/xmdQNE
+>     - Violent Python: https://g.co/kgs/vJfCsm
+>   - Vidoes: 
+>     - [The Complete Python Hacking Course: Beginner To Advance! (2021)](https://youtu.be/0NQ2aMxBYNE)
+>     - [The Complete Python Hacking Course Playlist](https://youtube.com/playlist?list=PL9bcYdRTwTIme7BckMbAd55KdwEzeSe9m)
 
 
 ## 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐂𝐨𝐦𝐟𝐨𝐫𝐭𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐊𝐚𝐥𝐢 𝐋𝐢𝐧𝐮𝐱
 
+> - Installing Kali Linux on VMware: https://youtu.be/UbGYDDnFAEg
+> - Kali Linux on Windows in 5 mins: https://youtu.be/AfVH54edAHU
+> ---
+> - Linux for Hackers by NetworkChuck: https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
+> - Linux for beginners (Hindi) by Codewithharry: `https://youtu.be/_tCY-c-sPZc`
+> - Linux for Hackers (Kali Linux Tutorial): https://youtu.be/lZAoFs75_cs
+> ---
+> - Kali Linux Training: https://kali.training/
+
 ## 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐧𝐞 𝐅𝐮𝐧
+
+
 
 ## 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐓𝐨𝐨𝐥𝐬
 
