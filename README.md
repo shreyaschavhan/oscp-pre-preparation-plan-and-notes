@@ -317,7 +317,36 @@ Windows Privilege Escalation — https://www.udemy.com/course/windows-privilege-
 ```
 
 ## 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐜𝐚𝐧𝐧𝐢𝐧𝐠
+
+```
+- Vulnerability Scanning using Nessus
+- Vulnerability Scanning using Nmap
+```
+
 ## 𝐖𝐞𝐛 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
+
+- Web Tools:
+```
+- DIRB: http://dirb.sourceforge.net/
+- Dirsearch: https://github.com/maurosoria/dirsearch
+- Dirbuster: https://tools.kali.org/web-applications/dirbuster
+- Gobuster: https://github.com/OJ/gobuster
+- Wfuzz: https://github.com/xmendez/wfuzz
+- ffuf: https://github.com/ffuf/ffuf
+- Burpsuite
+- Nikto
+- HTTPIe https://httpie.io/
+```
+
+- Practice:
+> - Metasploitable 2
+> - OWASP Juice Shop
+> - Overthewire Natas
+> - Web Security Academy
+> - https://www.hackthissite.org/
+
+
+
 ## 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐁𝐮𝐟𝐟𝐞𝐫 𝐎𝐯𝐞𝐫𝐟𝐥𝐨𝐰
 ## 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐁𝐮𝐟𝐟𝐞𝐫 𝐎𝐯𝐞𝐫𝐟𝐥𝐨𝐰𝐬
 ## 𝐋𝐢𝐧𝐮𝐱 𝐁𝐮𝐟𝐟𝐞𝐫 𝐎𝐯𝐞𝐫𝐟𝐥𝐨𝐰𝐬
