@@ -11,7 +11,7 @@
 
 ## ⁍ 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬
 
-- Pre-requisites
+- [Pre-requisites](#𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬)
 - Getting Comfortable with Kali Linux
 - Command Line Fun
 - Practical Tools
