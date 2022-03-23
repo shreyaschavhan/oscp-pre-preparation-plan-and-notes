@@ -45,12 +45,12 @@
 
 > - Solid understanding of TCP/IP networking
 >   - TCP/IP Fundamentals 
->     - Part I : https://youtu.be/xdQ9sgpkrX8
->     - Part II: https://youtu.be/NdvWI6RH1eo
+>     - [Part I](https://youtu.be/xdQ9sgpkrX8)
+>     - [Part II](https://youtu.be/NdvWI6RH1eo)
 > - Familiarity with basic Bash and/or Python scripting
 >   - Python Books:
->     - Black Hat Python: https://g.co/kgs/xmdQNE
->     - Violent Python: https://g.co/kgs/vJfCsm
+>     - [Black Hat Python](https://g.co/kgs/xmdQNE)
+>     - [Violent Python](https://g.co/kgs/vJfCsm)
 >   - Vidoes: 
 >     - [The Complete Python Hacking Course: Beginner To Advance! (2021)](https://youtu.be/0NQ2aMxBYNE)
 >     - [The Complete Python Hacking Course Playlist](https://youtube.com/playlist?list=PL9bcYdRTwTIme7BckMbAd55KdwEzeSe9m)
@@ -58,13 +58,13 @@
 
 ## 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐂𝐨𝐦𝐟𝐨𝐫𝐭𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐊𝐚𝐥𝐢 𝐋𝐢𝐧𝐮𝐱
 
-> - Installing Kali Linux on VMware: https://youtu.be/UbGYDDnFAEg
-> - Kali Linux on Windows in 5 mins: https://youtu.be/AfVH54edAHU
-> - Linux for Hackers by NetworkChuck: https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
-> - Linux for beginners (Hindi) by Codewithharry: `https://youtu.be/_tCY-c-sPZc`
-> - Linux for Hackers (Kali Linux Tutorial): https://youtu.be/lZAoFs75_cs
-> - Kali Linux Training: https://kali.training/
-> - Linux Commands cheatsheet: https://github.com/shreyaschavhan/linux-commands-cheatsheet
+> - [Installing Kali Linux on VMware](https://youtu.be/UbGYDDnFAEg)
+> - [Kali Linux on Windows in 5 mins](https://youtu.be/AfVH54edAHU)
+> - [Linux for Hackers by NetworkChuck](https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
+> - [Linux for beginners (Hindi) by Codewithharry](https://youtu.be/_tCY-c-sPZc)
+> - [Linux for Hackers (Kali Linux Tutorial)](https://youtu.be/lZAoFs75_cs)
+> - [Kali Linux Training](https://kali.training/)
+> - [Linux Commands cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet)
 
 
 - Should learn `(imp)`: 
@@ -87,11 +87,11 @@
 
 ## 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐧𝐞 𝐅𝐮𝐧
 
-> - Linux Commands cheatsheet: https://github.com/shreyaschavhan/linux-commands-cheatsheet
-> - Book: https://g.co/kgs/7gC3DZ
+> - [Linux Commands cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet)
+> - Book: [The Linux Command Line](https://g.co/kgs/7gC3DZ)
 > - Practice:
->   - Overthewire Bandit: https://overthewire.org/wargames/bandit/
->   - Cmdchallenge: https://cmdchallenge.com/
+>   - [Overthewire Bandit](https://overthewire.org/wargames/bandit/)
+>   - [Cmdchallenge](https://cmdchallenge.com/)
 > - Vim Tutorial: https://youtu.be/IiwGbcd8S7I
 
 
@@ -102,6 +102,18 @@
 - awk
 - cut
 - sed
+- comm
+- diff
+- vimdiff
+- ping
+- bg
+- fg
+- jobs
+- kill
+- ps
+- wget
+- curl
+- axel
 ```
 
 - Text Editors you should be familiar with:
@@ -110,12 +122,148 @@
 - vi(m)
 ```
 
-
-
-
 ## 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐓𝐨𝐨𝐥𝐬
 
+- Official Syllabus Tools
+
+```
+- Netcat
+- Socat
+- Powershell
+- Powercat
+- Wireshark
+- Tcpdump
+```
+
+- Enumeration
+
+```
+AutoRecon — https://github.com/Tib3rius/AutoRecon
+nmapAutomator — https://github.com/21y4d/nmapAutomator
+Reconbot — https://github.com/Apathly/Reconbot
+Raccoon — https://github.com/evyatarmeged/Raccoon
+RustScan — https://github.com/RustScan/RustScan
+BashScan — https://github.com/astryzia/BashScan
+```
+
+- Web Related
+
+```
+Dirsearch — https://github.com/maurosoria/dirsearch
+GoBuster — https://github.com/OJ/gobuster
+Recursive GoBuster — https://github.com/epi052/recursive-gobuster
+wfuzz — https://github.com/xmendez/wfuzz
+goWAPT — https://github.com/dzonerzy/goWAPT
+ffuf — https://github.com/ffuf/ffuf
+Nikto — https://github.com/sullo/nikto
+dirb — https://tools.kali.org/web-applications/dirb
+dirbuster — https://tools.kali.org/web-applications/dirbuster
+feroxbuster — https://github.com/epi052/feroxbuster
+FinalRecon — https://github.com/thewhiteh4t/FinalRecon
+```
+
+- Network tools:
+```
+Impacket (SMB, psexec, etc) — https://github.com/SecureAuthCorp/impacket
+```
+
+- File Transfers:
+```
+updog — https://github.com/sc0tfree/updog
+```
+
+- Wordlists:
+
+```
+SecLists — https://github.com/danielmiessler/SecLists
+```
+
+- Payload Generators:
+
+```
+Reverse Shell Generator — https://github.com/cwinfosec/revshellgen
+Windows Reverse Shell Generator — https://github.com/thosearetheguise/rev
+MSFVenom Payload Creator — https://github.com/g0tmi1k/msfpc
+```
+
+- Php reverse shell:
+
+```
+Windows PHP Reverse Shell — https://github.com/Dhayalanb/windows-php-reverse-shell
+PenTestMonkey Unix PHP Reverse Shell — http://pentestmonkey.net/tools/web-shells/php-reverse-shell
+```
+
+- Terminal Related:
+
+```
+tmux — https://tmuxcheatsheet.com/ (cheat sheet)
+tmux-logging — https://github.com/tmux-plugins/tmux-logging
+Oh My Tmux — https://github.com/devzspy/.tmux
+screen — https://gist.github.com/jctosta/af918e1618682638aa82 (cheat sheet)
+Terminator — http://www.linuxandubuntu.com/home/terminator-a-linux-terminal-emulator-with-multiple-terminals-in-one-window
+vim-windir — https://github.com/jtpereyda/vim-windir
+```
+
+- Exploits:
+```
+Exploit-DB — https://www.exploit-db.com/
+Windows Kernel Exploits — https://github.com/SecWiki/windows-kernel-exploits
+AutoNSE — https://github.com/m4ll0k/AutoNSE
+Linux Kernel Exploits — https://github.com/lucyoa/kernel-exploits
+```
+
+- Password Brute Forcer:
+
+```
+BruteX — https://github.com/1N3/BruteX
+Hashcat — https://hashcat.net/hashcat/
+John the Ripper — https://www.openwall.com/john/
+```
+
+- Post Exploitation / Privilege Escalation
+
+```
+LinEnum — https://github.com/rebootuser/LinEnum
+linprivchecker —https://www.securitysift.com/download/linuxprivchecker.py
+Powerless — https://github.com/M4ximuss/Powerless
+PowerUp — https://github.com/HarmJ0y/PowerUp
+Linux Exploit Suggester — https://github.com/mzet-/linux-exploit-suggester
+Windows Exploit Suggester — https://github.com/bitsadmin/wesng
+Windows Privilege Escalation Awesome Scripts (WinPEAS) — https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
+CHECK THE VERSION NUMBER!!! Linux Privilege Escalation Awesome Script (LinPEAS) — https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+GTFOBins (Bypass local restrictions) — https://gtfobins.github.io/
+Get GTFOBins — https://github.com/CristinaSolana/ggtfobins
+sudo_killer — https://github.com/TH3xACE/SUDO_KILLER
+WADComs — https://wadcoms.github.io/
+LOLBAS — https://lolbas-project.github.io/
+```
+
+- Buffer Overflow Practice
+```
+Vulnserver for Windows — https://github.com/stephenbradshaw/vulnserver
+Vulnserver for Linux — https://github.com/ins1gn1a/VulnServer-Linux
+Tib3rius TryHackMe BOF — https://tryhackme.com/jr/bufferoverflowprep
+```
+
+- Privilege Escalation Practice
+```
+Local Privilege Escalation Workshop — https://github.com/sagishahar/lpeworkshop
+Linux Privilege Escalation — https://www.udemy.com/course/linux-privilege-escalation/
+Windows Privilege Escalation — https://www.udemy.com/course/windows-privilege-escalation/
+```
+
+---
+
+> - Netcat 
+>   - [Netcat tutorial by networkchuk](https://youtu.be/bXCeFPNWjsM)
+> - [PowerShell Learning Resources](https://docs.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7)
+> - [PowerShell for Pentesting In Kali Linux](https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/)
+> - Hands on Challenges for learning PowerShell:
+>   - underthewire.tech: https://underthewire.tech/wargames.htm
+>   - codewars: https://www.codewars.com/
+
 ## 𝐁𝐚𝐬𝐡 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠
+
 
 ## 𝐏𝐚𝐬𝐬𝐢𝐯𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠
 
