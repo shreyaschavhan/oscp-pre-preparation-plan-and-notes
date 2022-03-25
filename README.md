@@ -27,8 +27,6 @@
 - [Buffer Overflow](#𝐁𝐮𝐟𝐟𝐞𝐫-𝐎𝐯𝐞𝐫𝐟𝐥𝐨𝐰)
 - [Client-side Attacks](#𝐂𝐥𝐢𝐞𝐧𝐭-𝐬𝐢𝐝𝐞-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
 - [Locating Public Exploits](#𝐋𝐨𝐜𝐚𝐭𝐢𝐧𝐠-𝐏𝐮𝐛𝐥𝐢𝐜-𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬)
-- [Fixing Exploits](#𝐅𝐢𝐱𝐢𝐧𝐠-𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬)
-- [File Transfers](#𝐅𝐢𝐥𝐞-𝐓𝐫𝐚𝐧𝐬𝐟𝐞𝐫𝐬)
 - [Antivirus Evasion](#𝐀𝐧𝐭𝐢𝐯𝐢𝐫𝐮𝐬-𝐄𝐯𝐚𝐬𝐢𝐨𝐧)
 - [Privilege Escalation](#𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞-𝐄𝐬𝐜𝐚𝐥𝐚𝐭𝐢𝐨𝐧)
 - [Password Attacks](#𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
@@ -427,11 +425,76 @@ Stack based Linux Buffer Overflow: https://www.exploit-db.com/docs/english/28475
 ```
 
 ## 𝐂𝐥𝐢𝐞𝐧𝐭-𝐬𝐢𝐝𝐞 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
+
+```
+https://www.offensive-security.com/metasploit-unleashed/client-side-attacks/
+```
+
 ## 𝐋𝐨𝐜𝐚𝐭𝐢𝐧𝐠 𝐏𝐮𝐛𝐥𝐢𝐜 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬
-## 𝐅𝐢𝐱𝐢𝐧𝐠 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬
-## 𝐅𝐢𝐥𝐞 𝐓𝐫𝐚𝐧𝐬𝐟𝐞𝐫𝐬
+
+- Places to Find Exploits:
+> - https://www.exploit-db.com/
+> - https://packetstormsecurity.com/files/tags/exploit/
+> - https://www.securityfocus.com/
+
+- Tools for finding exploits:
+```
+Searchsploit: a command line search tool for Exploit-DB
+Nmap NSE Script
+The Browser Exploitation Framework (BeEF)
+
+
+Manual for searchsploit: https://www.exploit-db.com/searchsploit
+```
+
 ## 𝐀𝐧𝐭𝐢𝐯𝐢𝐫𝐮𝐬 𝐄𝐯𝐚𝐬𝐢𝐨𝐧
+
+- Book
+```
+Antivirus Bypass Techniques: Learn Practical Techniques and Tactics to Combat, Bypass, and Evade Antivirus Software 
+
+Link: https://g.co/kgs/WzEjAH
+```
+
+- Tools to play with Anti-Virus evasion:
+```
+Veil-Framework: https://github.com/Veil-Framework/Veil
+Shellter: https://www.shellterproject.com/
+Unicorn https://github.com/trustedsec/unicorn
+UniByAV: https://github.com/Mr-Un1k0d3r/UniByAv
+```
+
+- Tools to play with for Obfuscation:
+```
+PowerShell:
+
+Invoke-Obfuscation: https://github.com/danielbohannon/Invoke-Obfuscation
+Chimera: https://github.com/tokyoneon/Chimera
+Python:
+
+Pyarmor: https://pypi.org/project/pyarmor/
+PyObfx: https://github.com/PyObfx/PyObfx
+C#:
+
+ConfuserEx: https://github.com/yck1509/ConfuserEx
+```
+
+- Testing Payloads Publicly. (Keep in mind that submitting your samples to online scanners may be distributed to other AV engines):
+
+```
+Nodistribute: https://nodistribute.com/
+Virustotal: https://www.virustotal.com/gui/home
+Hybrid-Analysis: https://www.hybrid-analysis.com/
+Any-Run: https://app.any.run
+Reverse.it: https://reverse.it
+Anti-Virus Evasion Tool: https://github.com/govolution/avet
+DefenderCheck: https://github.com/matterpreter/DefenderCheck
+ThreatCheck: https://github.com/rasta-mouse/ThreatCheck
+```
+
 ## 𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐄𝐬𝐜𝐚𝐥𝐚𝐭𝐢𝐨𝐧
+
+
 ## 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
 ## 𝐏𝐨𝐫𝐭 𝐑𝐞𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐮𝐧𝐧𝐞𝐥𝐢𝐧𝐠
 ## 𝐀𝐜𝐭𝐢𝐯𝐞 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
