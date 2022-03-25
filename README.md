@@ -493,7 +493,54 @@ ThreatCheck: https://github.com/rasta-mouse/ThreatCheck
 ```
 
 ## 𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐄𝐬𝐜𝐚𝐥𝐚𝐭𝐢𝐨𝐧
+Blogs:
+1. https://guif.re/windowseop
+2. https://guif.re/linuxeop
+3. https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+4. https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation
+5. https://book.hacktricks.xyz/linux-unix/privilege-escalation
+6. https://guide.offsecnewbie.com/privilege-escalation/linux-pe
+7. https://steflan-security.com/linux-privilege-escalation-exploiting-capabilities/
+8. https://www.reddit.com/r/oscp/comments/9ystub/i_absolutely_suck_at_privilege_escalation/
+9. https://infosecwriteups.com/privilege-escalation-in-windows-380bee3a2842
+10. https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+11. https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+12. https://infosecwriteups.com/privilege-escalation-in-windows-380bee3a2842
+13. https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob
+14. http://www.dankalia.com/tutor/01005/0100501004.htm
+15. http://www.fuzzysecurity.com/tutorials/16.html
+16. https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+17. https://labs.f-secure.com/archive/windows-services-all-roads-lead-to-system/
+18. https://www.reddit.com/r/oscp/comments/iclvle/i_hate_hate_hate_hatee_privilege_escalation_did/
 
+
+Practice:
+1. https://gtfobins.github.io/
+2. https://lolbas-project.github.io/
+3. https://forum.hackthebox.com/t/oscp-practice/531
+
+
+Videos/Course:
+1. https://www.udemy.com/course/linux-privilege-escalation/
+2. Tiberius and TCM udemy courses
+3. https://www.youtube.com/watch?v=Qfy-traJwIs
+4. https://youtu.be/kMG8IsCohHA
+5. https://youtu.be/_8xJaaQlpBo
+6. https://www.youtube.com/playlist?list=PLDrNMcTNhhYrBNZ_FdtMq-gLFQeUZFzWV
+
+
+Github:
+
+1. https://github.com/sagishahar/lpeworkshop
+2. https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
+3. https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
+4. https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
+5. https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md
+6. https://github.com/abatchy17/WindowsExploits
+7. https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc
+8. https://github.com/rasta-mouse/Sherlock
+9. https://github.com/AonCyberLabs/Windows-Exploit-Suggester
+10. 
 
 ## 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
 ## 𝐏𝐨𝐫𝐭 𝐑𝐞𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐮𝐧𝐧𝐞𝐥𝐢𝐧𝐠
