@@ -539,8 +539,101 @@ ThreatCheck: https://github.com/rasta-mouse/ThreatCheck
 
 ```
 
+- Others
+
+```
+- https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
+- https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/
+- https://www.vulnhub.com/entry/linsecurity-1,244/
+- https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html#section-10-buffer-overflows-for-windows-and-linux
+- http://pwnwiki.io/#!privesc/windows/index.md
+- https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+- https://github.com/N7WEra/SharpAllTheThings
+- https://github.com/411Hall/JAWS/commits?author=411Hall
+- https://github.com/bitsadmin/wesng
+- https://github.com/rasta-mouse/Sherlock
+- https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS
+- https://github.com/rasta-mouse/Watson
+- https://github.com/GhostPack/Seatbelt
+- https://github.com/gladiatx0r/Powerless
+- https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon
+- https://github.com/breenmachine/RottenPotatoNG
+- https://github.com/ohpe/juicy-potato
+- https://rahmatnurfauzi.medium.com/windows-privilege-escalation-scripts-techniques-30fa37bd194
+- https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+- https://github.com/jondonas/linux-exploit-suggester-2
+```
+
 ## 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
+
+- Offline tools for password cracking
+
+```
+Hashcat: https://hashcat.net/hashcat/ Sample Hashes to test with Hashcat: https://hashcat.net/wiki/doku.php?id=example_hashes
+John the Ripper: https://www.openwall.com/john/
+Metasploit Unleashed using John the Ripper with Hashdump: https://www.offensive-security.com/metasploit-unleashed/john-ripper/
+```
+
+- Online Tools for password cracking
+
+```
+THC Hydra: https://github.com/vanhauser-thc/thc-hydra
+Crowbar: https://github.com/galkan/crowbar
+```
+
+- Wordlist Generator
+
+```
+Cewl: https://digi.ninja/projects/cewl.php
+Crunch: https://tools.kali.org/password-attacks/crunch
+Cupp (In Kali Linux): https://github.com/Mebus/cupp
+```
+
+- Tools to check the hash type:
+
+```
+Hash-Identifier: https://github.com/psypanda/hashID
+
+```
+- Tools to dump for hashes:
+
+```
+Mimikatz: https://github.com/gentilkiwi/mimikatz
+Mimipenguin: https://github.com/huntergregal/mimipenguin
+Pypykatz: https://github.com/skelsec/pypykatz
+```
+
+- Wordlists:
+
+```
+In Kali: /usr/share/wordlists
+Seclists: apt-get install seclists You can find all of his password lists here: https://github.com/danielmiessler/SecLists/tree/master/Passwords
+Xajkep Wordlists: https://github.com/xajkep/wordlists
+```
+
+- Online Password Crackers:
+
+```
+https://hashkiller.io/
+https://www.cmd5.org/
+https://www.onlinehashcrack.com/
+https://gpuhash.me/
+https://crackstation.net/
+https://passwordrecovery.io/
+https://md5decrypt.net/en/
+https://hashes.com/en/decrypt/hash
+http://cracker.offensive-security.com/
+```
+
+- Others
+
+```
+Introduction to Password Cracking: https://alexandreborgesbrazil.files.wordpress.com/2013/08/introduction_to_password_cracking_part_1.pdf
+Pwning Wordpress Passwords: https://medium.com/bugbountywriteup/pwning-wordpress-passwords-2caf12216956
+```
 ## 𝐏𝐨𝐫𝐭 𝐑𝐞𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐮𝐧𝐧𝐞𝐥𝐢𝐧𝐠
+
+
 ## 𝐀𝐜𝐭𝐢𝐯𝐞 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
 ## 𝐓𝐡𝐞 𝐌𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤
 ## 𝐏𝐨𝐰𝐞𝐫𝐬𝐡𝐞𝐥𝐥 𝐄𝐦𝐩𝐢𝐫𝐞
