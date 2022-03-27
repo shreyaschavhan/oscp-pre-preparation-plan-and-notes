@@ -34,7 +34,6 @@
 - [Active Directory Attacks](#𝐀𝐜𝐭𝐢𝐯𝐞-𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
 - [The Metasploit Framework](#𝐓𝐡𝐞-𝐌𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭-𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤)
 - [Powershell Empire](#𝐏𝐨𝐰𝐞𝐫𝐬𝐡𝐞𝐥𝐥-𝐄𝐦𝐩𝐢𝐫𝐞)
-- [Assembling the pieces: penetration test breakdown](#𝐀𝐬𝐬𝐞𝐦𝐛𝐥𝐢𝐧𝐠-𝐭𝐡𝐞-𝐩𝐢𝐞𝐜𝐞𝐬-𝐩𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧-𝐭𝐞𝐬𝐭-𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧)
 - [Trying Harder: The Labs](#𝐓𝐫𝐲𝐢𝐧𝐠-𝐇𝐚𝐫𝐝𝐞𝐫-𝐓𝐡𝐞-𝐋𝐚𝐛𝐬)
 
 ## 𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
@@ -668,10 +667,136 @@ Wintermute: https://www.vulnhub.com/entry/wintermute-1,239/
 
 ## 𝐀𝐜𝐭𝐢𝐯𝐞 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
 
+- Blogs
+
+> - [Attack this active directory machine and get your 40 points!](https://www.reddit.com/r/oscp/comments/s5puw0/attack_this_active_directory_machine_and_get_your/)
+> - [[AD 0] Setting up an Active Directory Lab](https://shroudri.github.io/guides/setting-up-active-directory/)
+> - [Attacking Active Directory: 0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)
+
+
+
+- Github:
+
+> - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
+> - https://github.com/davidprowe/BadBlood
+> - https://github.com/avi7611/Active-directory-small-cheatsheet
+
+- Practice:
+```
+- https://tryhackme.com/room/attacktivedirectory
+- https://tryhackme.com/network/throwback
+- Heist, Hutch, Vault on PG Play
+- Tryhackme Holo, Throwback networks in addition to attacktive and post exploitation rooms
+- Hackthebox: Forest, Sauna, dante, active, Arctic and Granny.
+- CyberSecLabs
+- Razorblack, Enterprise, VulnNet - Active on tryhackme
+- wreath on tryhackme
+- blackfield, intelligence, multimaster, cascade, heist...crap was that htb heist or pg heist or both, Reel, Sauna, Fuse, Sizzle, Mantis, and Resolute.
+- https://drive.google.com/file/d/1RktnrenlhOMIqdPDAv-u60_yzW7K0KS0/view
+- Rastalabs on HTB
+```
+
+- Videos:
+> - [Kerberos & Attacks 101](https://www.youtube.com/watch?v=IBeUz7zMN24)
+> - [Active Directory Attack Series](https://youtube.com/playlist?list=PLPDUz8KkxR5z2z84CJ1JyLXC9JgxkjPBk)
+> - [Attacking Active Directory - GPP Credentials](https://www.youtube.com/watch?v=sTedpt47t2Y)
+> - [70-640 Active Directory Course](https://youtube.com/playlist?list=PL1l78n6W8zypXtkh3uWIXbPssc4IGbfb5)
+> - [Common Active Directory Attacks: Back to the Basics of Security Practices](https://youtu.be/vga7A2tYejE)
+> - [What is Active Directory](https://youtu.be/GfqsFtmJQg0)
+
+- TJNull's suggestion:
+
+```
+Setting up Active Directory:
+
+Note: Make sure when you are setting up the Active Directory Server that you assign a static IP address to it and also a workstation that you will be joining the server to for further testing. I recommend that you set up a Windows 10 Workstation if you plan to use Windows Server 2016/2019.
+
+Microsoft Documentation to install Active Directory: https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-active-directory-domain-services–level-100-
+Install Windows Active Directory on Windows Server 2019: https://computingforgeeks.com/how-to-install-active-directory-domain-services-in-windows-server/
+Understanding Users Accounts in Active Directory: https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/active-directory-accounts
+Three ways to create an Active Directory User: https://petri.com/3-ways-to-create-new-active-directory-users
+Join a Workstation to the Domain: https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/join-a-computer-to-a-domain
+Tools to help you automate the installation for Active Directory:
+
+ADLab: https://github.com/browninfosecguy/ADLab
+Automated Lab: https://github.com/AutomatedLab/AutomatedLab
+MSLab: https://github.com/microsoft/MSLab
+Invoke-ADLabDeployer: https://github.com/outflanknl/Invoke-ADLabDeployer
+Active Directory User Setup: https://github.com/bjiusc/Active-Directory-User-Setup-Script
+Enumerating Active Directory:
+
+Active Directory Enumeration with Powershell: https://www.exploit-db.com/docs/english/46990-active-directory-enumeration-with-powershell.pdf
+Active Directory Exploitation Cheat Sheet: https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet#domain-enumeration
+Powersploit: https://github.com/PowerShellMafia/PowerSploit
+Understanding Authentication protocols that Active Directory Utilizes:
+
+NTLM Authentication: https://docs.microsoft.com/en-us/windows-server/security/kerberos/kerberos-authentication-overview
+Kerberos Authentication https://docs.microsoft.com/en-us/windows-server/security/kerberos/kerberos-authentication-overview
+Cache and Stored Credentials: https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh994565(v=ws.11)
+Group Managed Service Accounts: https://adsecurity.org/?p=4367
+Lateral Movement in Active Directory:
+
+Paving the Way to DA: https://blog.zsec.uk/path2da-pt1
+Part 2, 3
+Pass the Hash with Machine Accounts: https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/pass-the-hash-with-machine-accounts
+Overpass the hash (Payload All the things): https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#overpass-the-hash-pass-the-key
+Red Team Adventures Overpass the Hash: https://riccardoancarani.github.io/2019-10-04-lateral-movement-megaprimer/#overpass-the-hash
+Pass the Ticket (Silver Tickets): https://adsecurity.org/?p=2011
+Lateral Movement with DCOM: https://www.ired.team/offensive-security/lateral-movement/t1175-distributed-component-object-model
+Active Directory Persistence:
+
+Cracking Kerberos TGS Tickets Using Kerberoast: https://adsecurity.org/?p=2293
+Kerberoasting Without Mimikatz: https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/
+Golden Tickets: https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/kerberos-golden-tickets
+Pass the Ticket (Golden Tickets): https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#pass-the-ticket-golden-tickets
+Understanding DCSync Attacks: https://attack.stealthbits.com/privilege-escalation-using-mimikatz-dcsync
+Tools for Active Directory Lateral Movement and Persistence:
+
+ADRecon: https://github.com/sense-of-security/ADRecon
+Kerbrute: https://github.com/ropnop/kerbrute
+Rubeus: https://github.com/GhostPack/Rubeus
+Impacket: https://github.com/SecureAuthCorp/impacket
+Other Resources:
+
+Building an Active Directory with PowerShell: https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/
+Lateral Movement for AD: https://riccardoancarani.github.io/2019-10-04-lateral-movement-megaprimer/#overpass-the-hash
+Lateral Movement with CrackMapExec: https://www.hackingarticles.in/lateral-moment-on-active-directory-crackmapexec/
+```
+
+
+
+- Others:
+```
+- https://wadcoms.github.io/
+- https://www.xmind.net/m/5dypm8/
+- Cybermentor's Practical Ethical Hacking Course - Active Directory Section
+```
 
 ## 𝐓𝐡𝐞 𝐌𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤
+
+
+> - Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
+> - Book:
+>    - [Metasploit: The Penetration Tester's Guide](https://g.co/kgs/Cpu7s9)
+
+- MSFvenom Cheat Sheets:
+```
+http://security-geek.in/2016/09/07/msfvenom-cheat-sheet/
+https://netsec.ws/?p=331
+https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom
+```
+
+
 ## 𝐏𝐨𝐰𝐞𝐫𝐬𝐡𝐞𝐥𝐥 𝐄𝐦𝐩𝐢𝐫𝐞
-## 𝐀𝐬𝐬𝐞𝐦𝐛𝐥𝐢𝐧𝐠 𝐭𝐡𝐞 𝐩𝐢𝐞𝐜𝐞𝐬: 𝐩𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐭𝐞𝐬𝐭 𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧
+
+> - Powershell Empire: https://github.com/BC-SECURITY/Empire
+> - Powershell Empire Guide: https://alpinesecurity.com/blog/empire-a-powershell-post-exploitation-tool/
+
+
 ## 𝐓𝐫𝐲𝐢𝐧𝐠 𝐇𝐚𝐫𝐝𝐞𝐫: 𝐓𝐡𝐞 𝐋𝐚𝐛𝐬
+
+- HTB VM List: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159
+- Vulnhub VM List: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0
+
 
 
