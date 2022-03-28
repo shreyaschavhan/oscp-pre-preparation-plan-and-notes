@@ -15,26 +15,30 @@
 
 ## ⁍ 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬
 
-- [Pre-requisites](#𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬)
-- [Getting Comfortable with Kali Linux](#𝐆𝐞𝐭𝐭𝐢𝐧𝐠-𝐂𝐨𝐦𝐟𝐨𝐫𝐭𝐚𝐛𝐥𝐞-𝐰𝐢𝐭𝐡-𝐊𝐚𝐥𝐢-𝐋𝐢𝐧𝐮𝐱)
-- [Command Line Fun](#𝐂𝐨𝐦𝐦𝐚𝐧𝐝-𝐋𝐢𝐧𝐞-𝐅𝐮𝐧)
-- [Practical Tools](#𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥-𝐓𝐨𝐨𝐥𝐬)
-- [Bash Scripting](#𝐁𝐚𝐬𝐡-𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠)
-- [Passive Information Gathering](#𝐏𝐚𝐬𝐬𝐢𝐯𝐞-𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧-𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠)
-- [Active Information Gathering](#𝐀𝐜𝐭𝐢𝐯𝐞-𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧-𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠)
-- [Vulnerability Scanning](#𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲-𝐒𝐜𝐚𝐧𝐧𝐢𝐧𝐠)
-- [Web Application Attacks](#𝐖𝐞𝐛-𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
-- [Buffer Overflow](#𝐁𝐮𝐟𝐟𝐞𝐫-𝐎𝐯𝐞𝐫𝐟𝐥𝐨𝐰)
-- [Client-side Attacks](#𝐂𝐥𝐢𝐞𝐧𝐭-𝐬𝐢𝐝𝐞-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
-- [Locating Public Exploits](#𝐋𝐨𝐜𝐚𝐭𝐢𝐧𝐠-𝐏𝐮𝐛𝐥𝐢𝐜-𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬)
-- [Antivirus Evasion](#𝐀𝐧𝐭𝐢𝐯𝐢𝐫𝐮𝐬-𝐄𝐯𝐚𝐬𝐢𝐨𝐧)
-- [Privilege Escalation](#𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞-𝐄𝐬𝐜𝐚𝐥𝐚𝐭𝐢𝐨𝐧)
-- [Password Attacks](#𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
-- [Port Redirection and Tunneling](#𝐏𝐨𝐫𝐭-𝐑𝐞𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧-𝐚𝐧𝐝-𝐓𝐮𝐧𝐧𝐞𝐥𝐢𝐧𝐠)
-- [Active Directory Attacks](#𝐀𝐜𝐭𝐢𝐯𝐞-𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
-- [The Metasploit Framework](#𝐓𝐡𝐞-𝐌𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭-𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤)
-- [Powershell Empire](#𝐏𝐨𝐰𝐞𝐫𝐬𝐡𝐞𝐥𝐥-𝐄𝐦𝐩𝐢𝐫𝐞)
-- [Trying Harder: The Labs](#𝐓𝐫𝐲𝐢𝐧𝐠-𝐇𝐚𝐫𝐝𝐞𝐫-𝐓𝐡𝐞-𝐋𝐚𝐛𝐬)
+- Resources:
+> - [Pre-requisites](#𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬)
+> - [Getting Comfortable with Kali Linux](#𝐆𝐞𝐭𝐭𝐢𝐧𝐠-𝐂𝐨𝐦𝐟𝐨𝐫𝐭𝐚𝐛𝐥𝐞-𝐰𝐢𝐭𝐡-𝐊𝐚𝐥𝐢-𝐋𝐢𝐧𝐮𝐱)
+> - [Command Line Fun](#𝐂𝐨𝐦𝐦𝐚𝐧𝐝-𝐋𝐢𝐧𝐞-𝐅𝐮𝐧)
+> - [Practical Tools](#𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥-𝐓𝐨𝐨𝐥𝐬)
+> - [Bash Scripting](#𝐁𝐚𝐬𝐡-𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠)
+> - [Passive Information Gathering](#𝐏𝐚𝐬𝐬𝐢𝐯𝐞-𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧-𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠)
+> - [Active Information Gathering](#𝐀𝐜𝐭𝐢𝐯𝐞-𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧-𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠)
+> - [Vulnerability Scanning](#𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲-𝐒𝐜𝐚𝐧𝐧𝐢𝐧𝐠)
+> - [Web Application Attacks](#𝐖𝐞𝐛-𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
+> - [Buffer Overflow](#𝐁𝐮𝐟𝐟𝐞𝐫-𝐎𝐯𝐞𝐫𝐟𝐥𝐨𝐰)
+> - [Client-side Attacks](#𝐂𝐥𝐢𝐞𝐧𝐭-𝐬𝐢𝐝𝐞-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
+> - [Locating Public Exploits](#𝐋𝐨𝐜𝐚𝐭𝐢𝐧𝐠-𝐏𝐮𝐛𝐥𝐢𝐜-𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬)
+> - [Antivirus Evasion](#𝐀𝐧𝐭𝐢𝐯𝐢𝐫𝐮𝐬-𝐄𝐯𝐚𝐬𝐢𝐨𝐧)
+> - [Privilege Escalation](#𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞-𝐄𝐬𝐜𝐚𝐥𝐚𝐭𝐢𝐨𝐧)
+> - [Password Attacks](#𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
+> - [Port Redirection and Tunneling](#𝐏𝐨𝐫𝐭-𝐑𝐞𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧-𝐚𝐧𝐝-𝐓𝐮𝐧𝐧𝐞𝐥𝐢𝐧𝐠)
+> - [Active Directory Attacks](#𝐀𝐜𝐭𝐢𝐯𝐞-𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲-𝐀𝐭𝐭𝐚𝐜𝐤𝐬)
+> - [The Metasploit Framework](#𝐓𝐡𝐞-𝐌𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭-𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤)
+> - [Powershell Empire](#𝐏𝐨𝐰𝐞𝐫𝐬𝐡𝐞𝐥𝐥-𝐄𝐦𝐩𝐢𝐫𝐞)
+> - [Trying Harder: The Labs](#𝐓𝐫𝐲𝐢𝐧𝐠-𝐇𝐚𝐫𝐝𝐞𝐫-𝐓𝐡𝐞-𝐋𝐚𝐛𝐬)
+
+- [Strategy](#𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲)  
+
 
 ## 𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
 
@@ -799,4 +803,18 @@ https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom
 - Vulnhub VM List: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0
 
 
+# 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲
 
+- Overview:
+
+```
+Phase I: Theory, Preparation and Note Taking
+Phase II: Practice
+Phase III: OSCP Labs & Origial Course Material
+Phase IV: OSCP Exam
+```
+
+- Detailed:
+
+```
+```
