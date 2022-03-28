@@ -836,4 +836,9 @@ Do theory, make notes and refer to notes. Have everything at one place! That's i
 - Detailed:
 
 ```
+=========== + =========================================== 
+            |        Do TCP/IP fundamentals
+28-03-2022  | [Part I](https://youtu.be/xdQ9sgpkrX8)
+            | [Part II](https://youtu.be/NdvWI6RH1eo)
+=========== + ===========================================
 ```
