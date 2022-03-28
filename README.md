@@ -813,6 +813,25 @@ Phase II: Practice
 Phase III: OSCP Labs & Origial Course Material
 Phase IV: OSCP Exam
 ```
+```
+Thought Process:
+
+So, Yeah! We have 180 days i.e. 175 remaining. I took a lot of time planning, it's ok tho. 
+One shot, game khallas karna hai. Let's plan:
+
+Let's divide OSCP into fundamental components that will require for us to crack OSCP:
+1. Theory, theory and theory. In-depth Understanding of lot of topics.
+2. Ability to apply knowledge practically.
+3. Critical Thinking
+4. High Pain threshold.
+5. Consistency 
+6. Note taking
+
+Step by step dekha jaye toh, you should have basic understanding of almost everything beforehand so that you don't keep jumping back on phase I from phase II.
+Do theory, make notes and refer to notes. Have everything at one place! That's it for today, hehe!
+```
+
+- [Study Methodology](https://www.reddit.com/r/intj/comments/savbmb/study_tips_from_an_intj_to_an_intj/)
 
 - Detailed:
 
