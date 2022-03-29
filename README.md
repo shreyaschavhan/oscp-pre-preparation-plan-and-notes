@@ -48,12 +48,19 @@
 >     - [Part II](https://youtu.be/NdvWI6RH1eo)
 > - Familiarity with basic Bash and/or Python scripting
 >   - Python Books:
+>     - [Learn Python 3 the hard way](https://g.co/kgs/dtmGpu) 
+>     - [Learn More Python 3 the hard way](https://g.co/kgs/iqHMau)
 >     - [Black Hat Python](https://g.co/kgs/xmdQNE)
 >     - [Violent Python](https://g.co/kgs/vJfCsm)
 >   - Vidoes: 
 >     - [The Complete Python Hacking Course: Beginner To Advance! (2021)](https://youtu.be/0NQ2aMxBYNE)
 >     - [The Complete Python Hacking Course Playlist](https://youtube.com/playlist?list=PL9bcYdRTwTIme7BckMbAd55KdwEzeSe9m)
 
+```
+Thoughts:
+
+`Learn python 3 the hard way` is the best book for python according to me!
+```
 
 ## 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐂𝐨𝐦𝐟𝐨𝐫𝐭𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐊𝐚𝐥𝐢 𝐋𝐢𝐧𝐮𝐱
 
@@ -836,9 +843,18 @@ Do theory, make notes and refer to notes. Have everything at one place! That's i
 - Detailed:
 
 ```
-=========== + =========================================== 
-            |        Do TCP/IP fundamentals
-28-03-2022  | [Part I](https://youtu.be/xdQ9sgpkrX8)
-            | [Part II](https://youtu.be/NdvWI6RH1eo)
-=========== + ===========================================
+=========== + =========================================== + =========== 
+            |        Do TCP/IP fundamentals               |
+28-03-2022  | [Part I](https://youtu.be/xdQ9sgpkrX8)      |  Done
+            | [Part II](https://youtu.be/NdvWI6RH1eo)     | (175 days remaining)
+=========== + =========================================== + ===========
+            | Learn Python 3 the hard way                 |
+29-03-2022  | Learn More Python 3 the hard way            |  Ongoing
+  to        | Violent Python                              | (174 days Remaining)
+12-03-2022  | Black Hat python                            |
+            |                                             |
+=========== + =========================================== + ===========
+
+
+
 ```
