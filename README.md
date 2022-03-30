@@ -850,11 +850,19 @@ Do theory, make notes and refer to notes. Have everything at one place! That's i
 =========== + =========================================== + ===========
             | Learn Python 3 the hard way                 |
 29-03-2022  | Learn More Python 3 the hard way            |  Ongoing
-  to        | Violent Python                              | (174 days Remaining)
+  to        | Violent Python                              | 
 12-03-2022  | Black Hat python                            |
             | Hacking Video Course Youtube                |
 =========== + =========================================== + ===========
 
 
 
+```
+
+- Time Log
+
+```
+- 28-03-2022 : (175 days) TCP/IP
+- 29-03-2022 : (174 days) TCP/IP remaining + Learn python 3 the hard way
+- 30-03-2022 : (173 days)
 ```
