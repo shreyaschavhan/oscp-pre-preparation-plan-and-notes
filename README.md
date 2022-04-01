@@ -55,6 +55,8 @@
 >   - Vidoes: 
 >     - [The Complete Python Hacking Course: Beginner To Advance! (2021)](https://youtu.be/0NQ2aMxBYNE)
 >     - [The Complete Python Hacking Course Playlist](https://youtube.com/playlist?list=PL9bcYdRTwTIme7BckMbAd55KdwEzeSe9m)
+>   
+- [Python Notes for OSCP](https://github.com/shreyaschavhan/python-for-oscp)
 
 ```
 Thoughts:
