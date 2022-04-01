@@ -52,6 +52,7 @@
 >     - [Learn More Python 3 the hard way](https://g.co/kgs/iqHMau)
 >     - [Black Hat Python](https://g.co/kgs/xmdQNE)
 >     - [Violent Python](https://g.co/kgs/vJfCsm)
+>       - [Violent Python Codes in Python 3](https://github.com/EONRaider/violent-python3)
 >   - Vidoes: 
 >     - [The Complete Python Hacking Course: Beginner To Advance! (2021)](https://youtu.be/0NQ2aMxBYNE)
 >     - [The Complete Python Hacking Course Playlist](https://youtube.com/playlist?list=PL9bcYdRTwTIme7BckMbAd55KdwEzeSe9m)
@@ -866,5 +867,6 @@ Do theory, make notes and refer to notes. Have everything at one place! That's i
 ```
 - 28-03-2022 : (175 days) TCP/IP
 - 29-03-2022 : (174 days) TCP/IP remaining + Learn python 3 the hard way
-- 30-03-2022 : (173 days)
+- 30-03-2022 : (173 days) Python
+- 31-03-2022 : (172 days) Python
 ```
