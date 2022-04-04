@@ -65,6 +65,10 @@ Thoughts:
 `Learn python 3 the hard way` is the best book for python according to me!
 ```
 
+```
+Estimated Time: 24 hours
+```
+
 ## 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐂𝐨𝐦𝐟𝐨𝐫𝐭𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐊𝐚𝐥𝐢 𝐋𝐢𝐧𝐮𝐱
 
 > - [Installing Kali Linux on VMware](https://youtu.be/UbGYDDnFAEg)
@@ -92,6 +96,10 @@ Thoughts:
 - grep
 - apt
 
+```
+
+```
+Estimated Time: 8 hours
 ```
 
 ## 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐧𝐞 𝐅𝐮𝐧
@@ -129,6 +137,10 @@ Thoughts:
 ```
 - nano
 - vi(m)
+```
+
+```
+Excepted time (without practice): 12 hours 
 ```
 
 ## 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐓𝐨𝐨𝐥𝐬
@@ -270,6 +282,9 @@ Windows Privilege Escalation — https://www.udemy.com/course/windows-privilege-
 >   - underthewire.tech: https://underthewire.tech/wargames.htm
 >   - codewars: https://www.codewars.com/
 
+```
+Expected Tools Overview: 12 hours
+```
 ## 𝐁𝐚𝐬𝐡 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠
 
 > - Practice:
@@ -278,7 +293,9 @@ Windows Privilege Escalation — https://www.udemy.com/course/windows-privilege-
 > - Book:
 >   - [Shell Scripting: How to Automate Command Line Tasks Using...](https://g.co/kgs/LW4kQy)
 
-
+```
+Expected Time: 4 hours
+```
 
 ## 𝐏𝐚𝐬𝐬𝐢𝐯𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠
 
@@ -298,7 +315,10 @@ Windows Privilege Escalation — https://www.udemy.com/course/windows-privilege-
 - Stack Overflow
 - OSINT Framework
 - Maltego
+```
 
+```
+Expected time: 30 mins
 ```
 
 ## 𝐀𝐜𝐭𝐢𝐯𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠
@@ -325,11 +345,19 @@ Windows Privilege Escalation — https://www.udemy.com/course/windows-privilege-
 - SNMP Enumeration
 ```
 
+```
+Expected Time: 12 hours
+```
+
 ## 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐜𝐚𝐧𝐧𝐢𝐧𝐠
 
 ```
 - Vulnerability Scanning using Nessus
 - Vulnerability Scanning using Nmap
+```
+
+```
+Expected Time: 4 hours
 ```
 
 ## 𝐖𝐞𝐛 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
@@ -354,7 +382,9 @@ Windows Privilege Escalation — https://www.udemy.com/course/windows-privilege-
 > - Web Security Academy
 > - https://www.hackthissite.org/
 
-
+```
+Expected Time: 30 days
+```
 
 ## 𝐁𝐮𝐟𝐟𝐞𝐫 𝐎𝐯𝐞𝐫𝐟𝐥𝐨𝐰
 
@@ -437,10 +467,16 @@ Buffer Overflow Guide: https://github.com/johnjhacking/Buffer-Overflow-Guide
 Stack based Linux Buffer Overflow: https://www.exploit-db.com/docs/english/28475-linux-stack-based-buffer-overflows.pdf
 ```
 
+```
+Expected time (without practice): 8 hours
+```
 ## 𝐂𝐥𝐢𝐞𝐧𝐭-𝐬𝐢𝐝𝐞 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
 
 ```
 https://www.offensive-security.com/metasploit-unleashed/client-side-attacks/
+```
+```
+Expected Time: (not sure)
 ```
 
 ## 𝐋𝐨𝐜𝐚𝐭𝐢𝐧𝐠 𝐏𝐮𝐛𝐥𝐢𝐜 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬
@@ -458,6 +494,9 @@ The Browser Exploitation Framework (BeEF)
 
 
 Manual for searchsploit: https://www.exploit-db.com/searchsploit
+```
+```
+Expected Time: 1 hour
 ```
 
 ## 𝐀𝐧𝐭𝐢𝐯𝐢𝐫𝐮𝐬 𝐄𝐯𝐚𝐬𝐢𝐨𝐧
@@ -503,6 +542,10 @@ Reverse.it: https://reverse.it
 Anti-Virus Evasion Tool: https://github.com/govolution/avet
 DefenderCheck: https://github.com/matterpreter/DefenderCheck
 ThreatCheck: https://github.com/rasta-mouse/ThreatCheck
+```
+
+```
+Expected: 12 hours
 ```
 
 ## 𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐄𝐬𝐜𝐚𝐥𝐚𝐭𝐢𝐨𝐧
@@ -577,6 +620,11 @@ ThreatCheck: https://github.com/rasta-mouse/ThreatCheck
 - https://github.com/jondonas/linux-exploit-suggester-2
 ```
 
+```
+Expected: 12 hours
+```
+
+
 ## 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
 
 - Offline tools for password cracking
@@ -644,6 +692,12 @@ http://cracker.offensive-security.com/
 Introduction to Password Cracking: https://alexandreborgesbrazil.files.wordpress.com/2013/08/introduction_to_password_cracking_part_1.pdf
 Pwning Wordpress Passwords: https://medium.com/bugbountywriteup/pwning-wordpress-passwords-2caf12216956
 ```
+
+```
+Expected: 12 hours
+```
+
+
 ## 𝐏𝐨𝐫𝐭 𝐑𝐞𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐮𝐧𝐧𝐞𝐥𝐢𝐧𝐠
 
 - Blogs
@@ -677,6 +731,11 @@ Twilo: https://www.twilio.com/
 
 ```
 Wintermute: https://www.vulnhub.com/entry/wintermute-1,239/
+```
+
+
+```
+Expected: 12 hours
 ```
 
 ## 𝐀𝐜𝐭𝐢𝐯𝐞 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐀𝐭𝐭𝐚𝐜𝐤𝐬
@@ -785,6 +844,9 @@ Lateral Movement with CrackMapExec: https://www.hackingarticles.in/lateral-momen
 - https://www.xmind.net/m/5dypm8/
 - Cybermentor's Practical Ethical Hacking Course - Active Directory Section
 ```
+```
+Expected: 48 hours
+```
 
 ## 𝐓𝐡𝐞 𝐌𝐞𝐭𝐚𝐬𝐩𝐥𝐨𝐢𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤
 
@@ -800,12 +862,19 @@ https://netsec.ws/?p=331
 https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom
 ```
 
+```
+Expected: 4 hours
+```
 
 ## 𝐏𝐨𝐰𝐞𝐫𝐬𝐡𝐞𝐥𝐥 𝐄𝐦𝐩𝐢𝐫𝐞
 
 > - Powershell Empire: https://github.com/BC-SECURITY/Empire
 > - Powershell Empire Guide: https://alpinesecurity.com/blog/empire-a-powershell-post-exploitation-tool/
 
+
+```
+Expected: 4 hours
+```
 
 ## 𝐓𝐫𝐲𝐢𝐧𝐠 𝐇𝐚𝐫𝐝𝐞𝐫: 𝐓𝐡𝐞 𝐋𝐚𝐛𝐬
 
