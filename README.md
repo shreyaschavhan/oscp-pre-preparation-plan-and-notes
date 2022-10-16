@@ -55,9 +55,19 @@
 >       - [Violent Python Codes in Python 3](https://github.com/EONRaider/violent-python3)
 >   - Vidoes: 
 >     - [The Complete Python Hacking Course: Beginner To Advance! (2021)](https://youtu.be/0NQ2aMxBYNE)
+>       - Broken Link Update : [Access it here](https://web.archive.org/web/20210222183051/https://www.youtube.com/watch?v=0NQ2aMxBYNE&feature=youtu.be)
 >     - [The Complete Python Hacking Course Playlist](https://youtube.com/playlist?list=PL9bcYdRTwTIme7BckMbAd55KdwEzeSe9m)
 >   
 - [Python Notes for OSCP](https://github.com/shreyaschavhan/python-for-oscp)
+
+```
+Update (16th Oct 2022): 
+
+One of the above python course wasn't available anymore. But you can use waybackmachine to access it again.
+
+A quick tip for any broken link that might exist here in this repository:
+- Use Wayback machine
+```
 
 ```
 Thoughts:
@@ -912,30 +922,3 @@ Do theory, make notes and refer to notes. Have everything at one place! That's i
 
 - [Study Methodology](https://www.reddit.com/r/intj/comments/savbmb/study_tips_from_an_intj_to_an_intj/)
 
-- Detailed:
-
-```
-=========== + =========================================== + =========== 
-            |        Do TCP/IP fundamentals               |
-28-03-2022  | [Part I](https://youtu.be/xdQ9sgpkrX8)      |  Done
-            | [Part II](https://youtu.be/NdvWI6RH1eo)     | (175 days remaining)
-=========== + =========================================== + ===========
-            | Learn Python 3 the hard way                 |
-29-03-2022  | Learn More Python 3 the hard way            |  Ongoing
-  to        | Violent Python                              | 
-12-03-2022  | Black Hat python                            |
-            | Hacking Video Course Youtube                |
-=========== + =========================================== + ===========
-
-
-
-```
-
-- Time Log
-
-```
-- 28-03-2022 : (175 days) TCP/IP
-- 29-03-2022 : (174 days) TCP/IP remaining + Learn python 3 the hard way
-- 30-03-2022 : (173 days) Python
-- 31-03-2022 : (172 days) Python
-```
