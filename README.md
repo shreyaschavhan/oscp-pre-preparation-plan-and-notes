@@ -1,6 +1,6 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shreyaschavhan.oscp-pre-preparation-plan-and-notes&left_text=Views)
+
 `Note: These are my notes for personal reference!`
-
-
 
 # 𝐎𝐒𝐂𝐏 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬
 
